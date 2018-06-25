@@ -1,0 +1,15 @@
+.navbar-right { margin-right: 0px !important}
+.log {
+  margin: 5px 10px 0 0;
+}
+
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
