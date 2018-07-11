@@ -6,7 +6,7 @@ if(hostname === 'localhost') {
 	backendHost = 'http://localhost:3001';
 }
 else {
-	backendHost = 'https://basics-generator-api.herokuapp.com';
+	backendHost = '$BasicsTemplateUrl';
 }
 
 export const API_ROOT = `${backendHost}/api/`;

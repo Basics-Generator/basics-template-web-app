@@ -39,7 +39,7 @@ export default class Login extends Component {
                     <div className="login-content">
                         <div className="login-logo">
                             <a href="#">
-                                <img src="images/icon/logo.png" alt="Basics generator"/>
+                                <img src="images/icon/logo.png" alt="$BasicsTemplate"/>
                             </a>
                         </div>
                         <div className="login-form">

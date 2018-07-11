@@ -11,7 +11,7 @@ class Nav extends Component {
                 <aside className="menu-sidebar d-none d-lg-block">
                     <div className="logo">
                         <a href="/home">
-                            <img src="/images/icon/logo.png" alt="Cool Admin" />
+                            <img src="/images/icon/logo.png" alt="$BasicsTemplate" />
                         </a>
                     </div>
                     <div className="menu-sidebar__content js-scrollbar1">
